@@ -1,0 +1,1 @@
+C:\Users\Armitage\Desktop\Carpetachat\obj\x64\Debug\IGC.ChatServer.csproj.AssemblyReference.cache
